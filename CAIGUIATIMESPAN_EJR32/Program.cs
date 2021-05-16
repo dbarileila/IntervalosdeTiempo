@@ -31,7 +31,6 @@ namespace CAIGUIATIMESPAN_EJR32
                 }
                 else
                 {
-
                     Console.WriteLine($"Ingreso 1 --> Día: {salida1.Day} - Mes: {salida1.Month} - Año {salida1.Year}");
                     Console.WriteLine($"Ingreso 2 --> Día: {salida2.Day} - Mes: {salida2.Month} - Año {salida2.Year}");
 
